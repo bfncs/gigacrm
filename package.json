@@ -2,7 +2,7 @@
   "name": "gigacrm",
   "private": true,
   "scripts": {
-    "start": "serve --cors src"
+    "start": "serve --cors ."
   },
   "devDependencies": {
     "serve": "^6.0.6"
